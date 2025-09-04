@@ -76,8 +76,15 @@ def process_batch(batch_number:int, urls: List[str], prompt = DEFAULT_PROMPT, ou
         if isinstance(res, dict):
             # for testing
             data = extract_json_objects(res['text'])[0]
-        else:       
-            data = extract_json_objects(res.text)[0]
+        else: 
+            try:      
+                data = extract_json_objects(res.text)[0]
+            except Exception as e:
+                print(f'error processing url=${urls[i]}')
+                print(res)
+                print(e)
+                data = dict()
+                
         result.append(data)
         data['id'] = urls[i]
         
