@@ -1,0 +1,8 @@
+https://webarchiving.internetarchive.eu/iiif/2/collages!main-20250316!row-0.tif/2732,0,2732,2048/!800,600/0/default.jpg#filename=http%3A%2F%2Fwww.ebaystores.nl%2F
+https://webarchiving.internetarchive.eu/iiif/2/collages!main-20250316!row-2.tif/142064,20480,2732,2048/!800,600/0/default.jpg
+https://webarchiving.internetarchive.eu/iiif/2/collages!main-20250316!row-2.tif/133868,20480,2732,2048/!800,600/0/default.jpg
+https://webarchiving.internetarchive.eu/iiif/2/collages!main-20250316!row-2.tif/139332,24576,2732,2048/!800,600/0/default.jpg
+https://webarchiving.internetarchive.eu/iiif/2/collages!main-20250316!row-2.tif/762228,34816,2732,2048/!800,600/0/default.jpg
+https://webarchiving.internetarchive.eu/iiif/2/collages!main-20250316!row-2.tif/196704,12288,2732,2048/!800,600/0/default.jpg
+https://webarchiving.internetarchive.eu/iiif/2/collages!main-20250316!row-0.tif/620164,6144,2732,2048/!800,600/0/default.jpg    
+https://webarchiving.internetarchive.eu/iiif/2/collages!main-20250316!row-8.tif/631092,6144,2732,2048/!800,600/0/default.jpg
